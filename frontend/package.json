@@ -1,15 +1,10 @@
 {
-  "name": "material-ui-cra-tailwind-ts",
-  "version": "5.0.0",
-  "private": true,
+  "name": "casetext-takehome-frontend",
+  "version": "0.0.1",
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
     "@mui/material": "latest",
-    "@testing-library/jest-dom": "latest",
-    "@testing-library/react": "latest",
-    "@testing-library/user-event": "latest",
-    "@types/jest": "latest",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",

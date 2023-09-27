@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#root {
+    border: 0.1rem solid rgb(167 139 250);
+    background-color: rgb(167 139 250);
+    height: 100vh;
+}
+
+@font-face {
+    font-family: 'Pixeboy';
+    src: local('Pixeboy'), url(./fonts/Pixeboy-z8XGD.ttf) format('truetype');
+}
