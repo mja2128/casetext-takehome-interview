@@ -15,3 +15,8 @@ cd frontend
 npm install
 npm start
 ```
+
+## Existing Data (please test using these)
+* PIN: 1111, Name: Peter Parker, Card Type: Maestro, Balance 500.00
+* PIN: 2222, Name: Miles Morales, Card Type: MasterCard, Balance 2500.00
+* PIN: 3333, Name: Miguel O'Hara, Card Type: Visa, Balance 5000.00
